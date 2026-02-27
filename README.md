@@ -44,4 +44,3 @@ Ce projet utilise les principes de la programmation orientée objet et la gestio
 
 - Java
 - Java Swing
-- Programmation orientée objet
